@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="5" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-28T09:56:02 IST" name="Default suite" finished-at="2023-07-28T09:56:14 IST" duration-ms="11696">
+    <groups>
+    </groups>
+    <test started-at="2023-07-28T09:56:02 IST" name="Default test" finished-at="2023-07-28T09:56:14 IST" duration-ms="11696">
+      <class name="com.DemoBlaze.testClasses.IndexPageTest">
+        <test-method is-config="true" signature="set_Up()[pri:0, instance:com.DemoBlaze.testClasses.IndexPageTest@75d0911a]" started-at="2023-07-28T09:56:02 IST" name="set_Up" finished-at="2023-07-28T09:56:13 IST" duration-ms="11300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- set_Up -->
+        <test-method signature="VerifyUrlOfIndexPage()[pri:2, instance:com.DemoBlaze.testClasses.IndexPageTest@75d0911a]" started-at="2023-07-28T09:56:13 IST" name="VerifyUrlOfIndexPage" finished-at="2023-07-28T09:56:14 IST" duration-ms="121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyUrlOfIndexPage -->
+        <test-method is-config="true" signature="tear_Down()[pri:0, instance:com.DemoBlaze.testClasses.IndexPageTest@75d0911a]" started-at="2023-07-28T09:56:14 IST" name="tear_Down" finished-at="2023-07-28T09:56:14 IST" duration-ms="185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_Down -->
+      </class> <!-- com.DemoBlaze.testClasses.IndexPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
